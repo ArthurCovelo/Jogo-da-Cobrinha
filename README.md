@@ -1,5 +1,5 @@
 # Projeto Jogo da cobrinha
-![preview](./.github/trafego.gif)
+![preview](./.github/Cobrinha.gif)
 
 > Projeto: Jogo da cobrinha utilizando Html e JavaScript.
 
